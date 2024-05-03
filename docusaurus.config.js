@@ -134,7 +134,7 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
-        additionalLanguages: ['java','json'],
+        additionalLanguages: ['java','json','properties'],
       },
     }),
 };
